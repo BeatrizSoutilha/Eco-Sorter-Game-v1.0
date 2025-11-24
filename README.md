@@ -5,6 +5,10 @@ Jogo desenvolvido como projeto de extensão para comunidade.
 Versão: 1.0
 
 
+PARA JOGAR:
+Baixe o arquivo html e abra com seu navegador de internet.
+
+
 Autores:
 Beatriz Soutilha
 
