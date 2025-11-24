@@ -1,20 +1,15 @@
 # Eco-Sorter-Game-1.0
 Jogo desenvolvido como projeto de extensão para comunidade.
 
-♻ ECO SORTER
-Versão: 1.0
-
-
-PARA JOGAR:
-Baixe o arquivo html e abra com seu navegador de internet.
-
-
 Autores:
 Beatriz Soutilha
 
 Rio de Janeiro, 
 Novembro de 2025
 
+
+# PARA JOGAR:
+Baixe o arquivo html e a pasta "sounds", salvando-os na mesma pasta, e abra o arquivo "EcoSorter.html" com seu navegador de internet.
 
  
 1.	História
